@@ -247,7 +247,7 @@
                 updateCard("#tomorrow", tomorrow)
                 updateCard("#after-tomorrow", after_tomorrow)
 
-                for (var day = new Date(2023, 8, 1); day <= stop; day.setDate(day.getDate() + 1)) {
+                for (var day = new Date(2024, 8, 1); day <= stop; day.setDate(day.getDate() + 1)) {
                     day_type = dayType(day)
                     var formated_date = day.toLocaleDateString('en', format_en);
                     if (day_type == 'sobriete') {
