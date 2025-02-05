@@ -1,5 +1,5 @@
 # ZenFlex
-Le calendrier EDF Zen Flex disponible sur: https://masfaraud.github.io/ZenFlex/
+Le calendrier EDF Zen Flex disponible sur: https://dbabault.github.io/ZenFlex/
 
 Zen Flex est un abonnement à prix variable d'électricité d'EDF: https://particulier.edf.fr/fr/accueil/electricite-gaz/offres-electricite/offres-marche/electricite-weekend/zen-flex.html
 
